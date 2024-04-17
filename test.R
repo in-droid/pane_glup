@@ -1,0 +1,1 @@
+print("Pane e glup")
